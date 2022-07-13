@@ -3,7 +3,7 @@
 
 ## Overview:
 
-These tasks is completed by [Nada Oteif](https://sa.linkedin.com/in/nadaoteif) as a part of the [Smart Method](https://s-m.com.sa/en/index.html) company for Summer training in 2022 at the Robotics and AI department Track.
+These tasks is completed by [Nada Oteif](https://sa.linkedin.com/in/nadaoteif) as a part of the [Smart Method](https://s-m.com.sa/en/index.html) for Summer training in 2022 at the Robotics and AI track.
 
 
 ## Description:
