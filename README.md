@@ -36,4 +36,3 @@ These tasks is completed by [Nada Oteif](https://sa.linkedin.com/in/nadaoteif) a
 5. Now put the SD card in jetson nano, connect it to your device, wait untill the booting process has finished, and complete the basic Ubuntu installation steps.
 
 6. From https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html follow the instructions provided using terminal to install ROS2 on ubuntu and make sure that is successfully running.
-
